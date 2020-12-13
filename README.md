@@ -1,3 +1,11 @@
+Hello, I am adding this text just to contact you.
+feel free to remove it.
+Can we add https://github.com/bromite/bromite Bromite project in this project.
+I will help you in this project and we both manage this project.
+
+
+
+
 ![Logo](screenshots/app_icon.png?raw=true "Logo")
 
 # Chromium Android
